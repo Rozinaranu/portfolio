@@ -2,7 +2,7 @@
 
 <div align='center'>
  <h3>Rozina Akter</h3>
-<img height='70em' src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&pause=1500&color=9733EE&vCenter=true&random=false&width=435&lines=Software+Quality+Assurance+Engineer;Ensuring+quality+for+Web+%26+Mobile+Apps" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&pause=1500&color=9733EE&vCenter=true&random=false&width=435&lines=Software+Quality+Assurance+Engineer;Ensuring+quality+for+Web+%26+Mobile+Apps" alt="Typing SVG" /></a>
  
  <p>Developing my logical and creative skills in the world of web and software.</p>
  
