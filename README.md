@@ -16,9 +16,9 @@
 </div>
 
 <br>
+<br>
  
 ### About Me
-_______________________________________________________________________________
 
 - 👋 Hi! I'm Rozina Akter! I'm a passionate software quality assurance engineer. 
 
@@ -36,19 +36,18 @@ both manual and automated testing.
 
 
 ### Tools
-_______________________________________________________________________________
 
-- Postman
-- Selenium
-- Trello
-- Jira
-- Figma
-- VS Code
-- Slack
+![image](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![image](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
+![image](	https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![image](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![image](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
+<br>
 
 ### Skills
-_______________________________________________________________________________
 
 - Manual Testing
 - Automation Testing
@@ -62,7 +61,6 @@ _______________________________________________________________________________
 <br>
 
  ### Projects
-_______________________________________________________________________________ 
 
 > I have worked on over 24 projects throughout my professional work, here are some of my best.
 <br>
@@ -108,6 +106,13 @@ _______________________________________________________________________________
 - Content Management
 - Feedback Sheet Writing
       
+<br>
+
+### Demo Project
+
+#### ✅ Infinite E-commerce Website
+- [Bug Report](https://docs.google.com/spreadsheets/d/120ECgtZ_SVK7k-GLyh0bGGvoF959pNR7j7CECIm20Vo/edit?fbclid=IwAR0P5r6aDcBdSKs6FGym11i_Tzr4mZZgOyNkp-2iMwi9EFPMtT74VEQ_l5Y#gid=0)
+
 <br>
 
 <div align='center'>
