@@ -8,7 +8,6 @@
 <br>
 
 <div align='center'>
-<a href="https://github.com/Rozinaranu/portfolio/#about-me"><img src="https://img.shields.io/badge/About%20Me-8A2BE2"></a>
 <a href="https://drive.google.com/file/d/1hgPgQ0omiLe6d0BqBAqAr8EPrdk5kTEV/view?fbclid=IwAR3Pyf9_dFKDlxcKPD9YSdHyJO5xbrh6sOj12hOPqNQYd4QYttyxXskVQCM"><img src="https://img.shields.io/badge/Download%20My%20CV-8A2BE2"></a> 
 <a href="https://github.com/Rozinaranu/portfolio/#tools"><img src="https://img.shields.io/badge/Tools%20I%20Use-8A2BE2"></a>  
 <a href="https://github.com/Rozinaranu/portfolio/#skills"><img src="https://img.shields.io/badge/Skills-8A2BE2"></a>  
