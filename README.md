@@ -1,4 +1,4 @@
-<img height='100em' src='https://raw.githubusercontent.com/Rozinaranu/portfolio/main/assets/wavetop.png' />
+![top_banner](https://user-images.githubusercontent.com/122229411/220188318-ab13f5d8-f710-4785-93d0-21e36bc2b6c2.png](https://raw.githubusercontent.com/Rozinaranu/portfolio/main/assets/wavetop.png)
 
 <div align='center'>
  <h3>Rozina Akter</h3>
