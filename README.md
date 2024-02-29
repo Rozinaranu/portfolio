@@ -8,11 +8,11 @@
 <br>
 
 <div align='center'>
-<a href="https://github.com/Rozinaranu/portfolio/edit/main/README.md#about-me"><img src="https://img.shields.io/badge/About%20Me-8A2BE2"></a>
-<a href="https://drive.google.com/file/d/1hgPgQ0omiLe6d0BqBAqAr8EPrdk5kTEV/view?fbclid=IwAR3Pyf9_dFKDlxcKPD9YSdHyJO5xbrh6sOj12hOPqNQYd4QYttyxXskVQCM"><img src="https://img.shields.io/badge/Download%20My%20CV-8A2BE2"></a>  
-<a href="https://github.com/Rozinaranu/portfolio/edit/main/README.md#tools"><img src="https://img.shields.io/badge/Tools%20I%20Use-8A2BE2"></a>  
-<a href="https://github.com/Rozinaranu/portfolio/edit/main/README.md#skills"><img src="https://img.shields.io/badge/Skills-8A2BE2"></a>  
-<a href="https://github.com/Rozinaranu/portfolio/edit/main/README.md#projects"><img src="https://img.shields.io/badge/Projects-8A2BE2"></a>  
+<a href="https://github.com/Rozinaranu/portfolio/#about-me"><img src="https://img.shields.io/badge/About%20Me-8A2BE2"></a>
+<a href="https://drive.google.com/file/d/1hgPgQ0omiLe6d0BqBAqAr8EPrdk5kTEV/view?fbclid=IwAR3Pyf9_dFKDlxcKPD9YSdHyJO5xbrh6sOj12hOPqNQYd4QYttyxXskVQCM"><img src="https://img.shields.io/badge/Download%20My%20CV-8A2BE2"></a> 
+<a href="https://github.com/Rozinaranu/portfolio/#tools"><img src="https://img.shields.io/badge/Tools%20I%20Use-8A2BE2"></a>  
+<a href="https://github.com/Rozinaranu/portfolio/#skills"><img src="https://img.shields.io/badge/Skills-8A2BE2"></a>  
+<a href="https://github.com/Rozinaranu/portfolio/#projects"><img src="https://img.shields.io/badge/Projects-8A2BE2"></a>  
 </div>
 
 <br>
@@ -122,7 +122,7 @@ both manual and automated testing.
 </div>
 <br>
 <div align='center'>
- <a href="https://github.com/Rozinaranu/portfolio/edit/main/README.md#rozina-akter"> 🔼 Back to Top </a>  
+ <a href="https://github.com/Rozinaranu/portfolio/#rozina-akter"> 🔼 Back to Top </a>  
 </div>
 <br>
 <br>
