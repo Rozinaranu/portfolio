@@ -120,10 +120,6 @@ both manual and automated testing.
  <a href="mailto:ranu.maisha18@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 <br>
-<div align='center'>
- <a href="https://github.com/Rozinaranu/portfolio/#rozina-akter"> 🔼 Back to Top </a>  
-</div>
-<br>
 <br>
 
 ![bottom_banner](https://raw.githubusercontent.com/Rozinaranu/portfolio/main/assets/wavebottom.png)
